@@ -1,0 +1,14 @@
+C:\revature\Challenges\Week1\Week1.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\revature\Challenges\Week1\Week1.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\revature\Challenges\Week1\Week1.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\revature\Challenges\Week1\Week1.Test\bin\Debug\netcoreapp2.2\Week1.Test.deps.json
+C:\revature\Challenges\Week1\Week1.Test\bin\Debug\netcoreapp2.2\Week1.Test.runtimeconfig.json
+C:\revature\Challenges\Week1\Week1.Test\bin\Debug\netcoreapp2.2\Week1.Test.runtimeconfig.dev.json
+C:\revature\Challenges\Week1\Week1.Test\bin\Debug\netcoreapp2.2\Week1.Test.dll
+C:\revature\Challenges\Week1\Week1.Test\bin\Debug\netcoreapp2.2\Week1.Test.pdb
+C:\revature\Challenges\Week1\Week1.Test\obj\Debug\netcoreapp2.2\Week1.Test.csprojAssemblyReference.cache
+C:\revature\Challenges\Week1\Week1.Test\obj\Debug\netcoreapp2.2\Week1.Test.csproj.CoreCompileInputs.cache
+C:\revature\Challenges\Week1\Week1.Test\obj\Debug\netcoreapp2.2\Week1.Test.AssemblyInfoInputs.cache
+C:\revature\Challenges\Week1\Week1.Test\obj\Debug\netcoreapp2.2\Week1.Test.AssemblyInfo.cs
+C:\revature\Challenges\Week1\Week1.Test\obj\Debug\netcoreapp2.2\Week1.Test.dll
+C:\revature\Challenges\Week1\Week1.Test\obj\Debug\netcoreapp2.2\Week1.Test.pdb
