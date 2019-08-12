@@ -1,14 +1,23 @@
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Week1.Domain;
+using Xunit;
 
 namespace Week1.Test
 {
-    [TestClass]
-    public class UnitTest1
+  public class PalindromeTests
+  {
+    [Fact]
+    public void Test_Palindrome()
     {
-        [TestMethod]
-        public void TestMethod1()
-        {
-            
-        }
+      //arrange
+      var palindrome = new Palindrome();
+      var expected = true;
+      var test = civic;
+
+      //act
+      var actual = palindrome.PalindromeFunction(test);
+
+      //assert
+      Assert.True(expected == actual);
     }
+  }
 }
