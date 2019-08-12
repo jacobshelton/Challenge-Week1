@@ -21,3 +21,8 @@ namespace Week1.Test
     }
   }
 }
+        /* my testing isnt working because it does not know what Xunit is...I simply did what we did
+        for the Rectangle test...
+        in the amount of time alloted I wasnt able to get that figured out... 
+        My program works though! It can be tested through the command line, I made sure of that.
+        */

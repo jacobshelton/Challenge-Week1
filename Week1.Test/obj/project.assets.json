@@ -1619,6 +1619,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "Week1.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Week1.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Week1.Domain.dll": {}
+        }
       }
     }
   },
@@ -5813,6 +5823,11 @@
         "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "Week1.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Week1.Domain/Week1.Domain.csproj",
+      "msbuildProject": "../Week1.Domain/Week1.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5820,7 +5835,8 @@
       "MSTest.TestAdapter >= 1.4.0",
       "MSTest.TestFramework >= 1.4.0",
       "Microsoft.NET.Test.Sdk >= 16.0.1",
-      "Microsoft.NETCore.App >= 2.2.0"
+      "Microsoft.NETCore.App >= 2.2.0",
+      "Week1.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5850,7 +5866,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\revature\\Challenges\\Week1\\Week1.Domain\\Week1.Domain.csproj": {
+              "projectPath": "C:\\revature\\Challenges\\Week1\\Week1.Domain\\Week1.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
